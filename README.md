@@ -1,3 +1,1 @@
-# Rutgers-Computer-Science
-
-Coursework, projects, and assignments completed while at Rutgers University, New Brunswick. 
+Assignments and course material from Data Structures, Spring 2017, taken with Professor Sesh Venugopal.
