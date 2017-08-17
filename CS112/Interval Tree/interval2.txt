@@ -1,0 +1,7 @@
+1 3 intrvl-1-3     
+2 5 intrvl-2-5
+3 7 intrvl-3-7
+1 9 intrvl-1-9
+2 11 intrvl-2-11
+3 13 intrvl-3-13
+4 15 intrvl-4-15
