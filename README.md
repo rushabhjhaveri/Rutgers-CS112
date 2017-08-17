@@ -1,3 +1,3 @@
 # Rutgers-Computer-Science
 
-Coursework assignments and projects completed 
+Coursework, projects, and assignments completed while at Rutgers University, New Brunswick. 
